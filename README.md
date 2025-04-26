@@ -1,7 +1,3 @@
-Sure! Here's an enhanced and more presentable version of the README:
-
----
-
 # Real-Time Crypto Tracker
 
 A modern and responsive **Real-Time Crypto Tracker** built with **React.js**. This app allows users to view live data for popular cryptocurrencies, including their prices, 24h changes, market cap, and trading volume. It also includes features like dark/light mode toggling and the ability to sort the data by different criteria.
